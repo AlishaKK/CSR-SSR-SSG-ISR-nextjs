@@ -1,0 +1,1 @@
+# CSR-SSR-SSG-ISR-nextjs
